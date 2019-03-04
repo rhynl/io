@@ -1,0 +1,44 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Rhaynel Parra Aguiar"
+theme = "hello-friend-ng"
+
+[author]
+  name = "Rhaynel Parra Aguiar"
+  email = "mail@rhynl.io"
+
+[params]
+  description = "Rhaynel Parra Aguiar - Full Stack Software Developer"
+  keywords = "homepage, science, informatics, development, programming"
+  defaultTheme = "dark"
+  title = "Rhaynel Parra Aguiar"
+  homeSubtitle = "Full Stack Software Developer"
+  favicon = "./favicon.png"
+
+  [params.logo]
+    logoText = "$ cd ~/"
+    logoHomeLink = "/"
+
+  [[params.social]]
+    name = "twitter"
+    url  = "https://twitter.com/_rhaynel"
+
+  [[params.social]]
+    name = "email"
+    url  = "mailto:mail@rhynl.io"
+
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/rhynl"
+
+  [[params.social]]
+    name = "linkedin"
+    url  = "https://www.linkedin.com/in/rhaynel/"
+
+  [[params.social]]
+    name = "blog"
+    url  = "https://rhynl.dev"
+
+  [[params.social]]
+    name = "curriculum"
+    url  = "./Rhaynel_Parra_Aguiar.pdf"

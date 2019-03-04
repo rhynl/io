@@ -1,0 +1,24 @@
+{
+	"name": "rhynl.io",
+	"version": "0.0.0",
+	"private": true,
+	"description": "rhynl.io website",
+	"license": "MIT",
+	"repository": "github:rhynl/rhynl.github.io",
+	"bugs": {
+		"url": "https://github.com/rhynl/rhynl.github.io/issues"
+	},
+	"homepage": "https://github.com/rhynl/rhynl.github.io#readme",
+	"author": {
+		"name": "Rhaynel Parra Aguiar",
+		"email": "mail@rhynl.io",
+		"url": "https://rhynl.io"
+	},
+	"engines": {
+		"node": ">=10.15"
+	},
+	"scripts": {
+		"build": "./deploy.sh",
+		"start": "hugo serve"
+	}
+}
