@@ -8,11 +8,11 @@ theme = "hello-friend-ng"
   email = "mail@rhynl.io"
 
 [params]
-  description = "Rhaynel Parra Aguiar - Full Stack Software Developer"
-  keywords = "homepage, science, informatics, development, programming"
+  description = "Rhaynel Parra Aguiar - Full Stack Software Engineer"
+  keywords = "Software Engineering, Data Science, Software Development, Programming, Golang, Node.js, Full Stack Development"
   defaultTheme = "dark"
   title = "Rhaynel Parra Aguiar"
-  homeSubtitle = "Full Stack Software Developer"
+  homeSubtitle = "Full Stack Software Engineer"
   favicon = "./favicon.png"
 
   [params.logo]
